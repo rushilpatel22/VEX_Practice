@@ -18,6 +18,6 @@ int main() {
        sum += number;   
     }
   }
-  cout << "The sum of the numbers is " << sum << endl; 
+  cout << "The sum of the even numbers is " << sum << endl; 
 }
 
